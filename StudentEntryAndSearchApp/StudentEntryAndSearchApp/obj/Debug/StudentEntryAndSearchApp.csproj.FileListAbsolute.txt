@@ -1,0 +1,17 @@
+E:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\bin\Debug\StudentEntryAndSearchApp.exe.config
+E:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\bin\Debug\StudentEntryAndSearchApp.exe
+E:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\bin\Debug\StudentEntryAndSearchApp.pdb
+E:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\obj\Debug\StudentEntryAndSearchApp.StudentSearchUI.resources
+E:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\obj\Debug\StudentEntryAndSearchApp.StudentEntryUI.resources
+E:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\obj\Debug\StudentEntryAndSearchApp.MainUI.resources
+E:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\obj\Debug\StudentEntryAndSearchApp.Properties.Resources.resources
+E:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\obj\Debug\StudentEntryAndSearchApp.csproj.GenerateResource.Cache
+E:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\obj\Debug\StudentEntryAndSearchApp.exe
+E:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\obj\Debug\StudentEntryAndSearchApp.pdb
+E:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\obj\Debug\StudentEntryAndSearchApp.csprojResolveAssemblyReference.cache
+H:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\bin\Debug\StudentEntryAndSearchApp.exe.config
+H:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\obj\Debug\StudentEntryAndSearchApp.exe
+H:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\obj\Debug\StudentEntryAndSearchApp.pdb
+K:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\bin\Debug\StudentEntryAndSearchApp.exe.config
+K:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\obj\Debug\StudentEntryAndSearchApp.exe
+K:\2.1.2015\StudentEntryAndSearchApp\StudentEntryAndSearchApp\obj\Debug\StudentEntryAndSearchApp.pdb
